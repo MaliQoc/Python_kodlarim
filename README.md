@@ -20,7 +20,9 @@ Bu, hem zamandan hem de paradan tasarruf sağlar çünkü zaten çevrimiçi olar
 - Mobil uygulamalar
 - Siber güvenlik
 
-Ben BTK Akademideki 'Sıfırdan İleri Seviye Python Programlama' kursunu alarak öğrenmeye başlamıştım.
+3) Öğrenilecek bazı plaformlar
+
+Ben BTK Akademideki 'Sıfırdan İleri Seviye Python Programlama' kursunu alarak öğrenmeye başlamıştım. Sadık Turan hocanın anlatımıyla takip edebilirsiniz.
 
 https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877
 
