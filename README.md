@@ -11,7 +11,7 @@ Kod yazarken ortaya çıkabilecek karmaşık sözdizimi veya bellek ayırma soru
 Python’da, geliştiricilerin her yeni projeye başladıklarında tüm kodu sıfırdan kendileri yazmak zorunda kalmadan programları hızlı bir şekilde oluşturmalarını kolaylaştıran birçok yerleşik kitaplık vardır. 
 Bu, hem zamandan hem de paradan tasarruf sağlar çünkü zaten çevrimiçi olarak ücretsiz bir program varken ek programcıları işe almanıza gerek kalmaz. Ayrıca Java ve .NET platformları ile entegre biçimde çalışma yeteneğine sahiptir.
 
-3) Python ın kullanıldığı bazı alanlar
+2) Python ın kullanıldığı bazı alanlar
 - Sunucu tarafında web geliştirme
 - Otomasyon
 - Veri bilimi
