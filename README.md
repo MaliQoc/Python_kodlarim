@@ -1,20 +1,23 @@
+# Python-dili
+
 2022 yılında öğrendiğim Python dilini öğrenirken yazdığım kodları sizlerle paylaşıyorum.
 
 ÖNEMLİ! Bu konuların temel Python eğitiminden geldiğini unutmayın.
 
-Neden Python öğrenmelisiniz?
+1) Neden Python öğrenmelisiniz?
 Dünyanın en popüler dillerinden biridir. Öğrenmesi kolaydır, hemen hemen her şeyi yapabilecek kadar güçlüdür. Basit bir söz dizimi (syntax) vardır ve uzun kod satırları gerektirmez.
 Kod yazarken ortaya çıkabilecek karmaşık sözdizimi veya bellek ayırma sorunları hakkında endişelenmeden programlama dillerini öğrenmek isteyen yeni başlayanlar arkadaşlar için işleri kolaylaştırır.
 Python’da, geliştiricilerin her yeni projeye başladıklarında tüm kodu sıfırdan kendileri yazmak zorunda kalmadan programları hızlı bir şekilde oluşturmalarını kolaylaştıran birçok yerleşik kitaplık vardır. 
 Bu, hem zamandan hem de paradan tasarruf sağlar çünkü zaten çevrimiçi olarak ücretsiz bir program varken ek programcıları işe almanıza gerek kalmaz. Ayrıca Java ve .NET platformları ile entegre biçimde çalışma yeteneğine sahiptir.
 
-Python ın kullanıldığı bazı alanlar
-Sunucu tarafında web geliştirme
-Otomasyon
-Veri bilimi
-Makine öğrenmesi
-Yapay zeka
-Mobil uygulamalar
+2) Python ın kullanıldığı bazı alanlar
+- Sunucu tarafında web geliştirme
+- Otomasyon
+- Veri bilimi
+- Makine öğrenmesi
+- Yapay zeka
+- Mobil uygulamalar
+- Siber güvenlik
 
 Ben BTK Akademideki 'Sıfırdan İleri Seviye Python Programlama' kursunu alarak öğrenmeye başlamıştım.
 
